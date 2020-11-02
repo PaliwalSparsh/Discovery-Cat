@@ -1,5 +1,7 @@
 # Discovery Cat
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7cd6d497-7873-4c6f-be4e-ecbfac5f3ca5/deploy-status)](https://app.netlify.com/sites/build-discoverycat/deploys)
+
 Discovery cat is a game that will help users to discover their appropriate digital and learning preferences. Preferences are choices made by users, according to their needs of how they want to consume their resources. For example the size preference of a user will tell us if the user likes to see content in small size, normal size or large size. Other preference might tell us if the user is comfortable with black text on white screen or white text on black screen. Knowing all the different preferences of users, we can provide them with a seemless, consistent and comfortable experience. The objective of the game is to discover users preferences.
 The game will engage the users in a process of “**Learning to learn**”. This is a methodology where users can themselves try and learn what preferences work best for them.
 
